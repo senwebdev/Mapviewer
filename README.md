@@ -2,12 +2,6 @@
 
 React Native Map components for iOS + Android
 
-## Installation
-
-See [Installation Instructions](docs/installation.md).
-
-See [Setup Instructions for the Included Example Project](docs/examples-setup.md).
-
 ## Compatibility
 
 Due to the rapid changes being made in the React Native ecosystem, we are not officially going to
@@ -651,14 +645,6 @@ Good:
 
 License
 --------
-
-     Copyright (c) 2017 Airbnb
-
-     Licensed under the The MIT License (MIT) (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-        https://raw.githubusercontent.com/airbnb/react-native-maps/master/LICENSE
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
